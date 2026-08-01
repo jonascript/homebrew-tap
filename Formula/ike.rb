@@ -13,8 +13,8 @@
 class Ike < Formula
   desc "Eisenhower matrix task manager for your terminal"
   homepage "https://github.com/jonascript/ike"
-  url "https://github.com/jonascript/ike/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "c8a645b0e0edffeda0273410ee8559a809e6dae4bfe77f10e6a0f1efcf38015e"
+  url "https://github.com/jonascript/ike/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "5bd5da7cf33a1f924a4e8ce01768776b2db08be0ac80f73825d62a94ff2076de"
   license "MIT"
   head "https://github.com/jonascript/ike.git", branch: "main"
 
